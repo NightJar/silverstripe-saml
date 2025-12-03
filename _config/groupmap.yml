@@ -1,0 +1,6 @@
+---
+Name: saml-group-map
+---
+SilverStripe\Security\Group:
+  extensions:
+    - SilverStripe\SAML\Extensions\GroupMapWarning
